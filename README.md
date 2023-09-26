@@ -1,5 +1,5 @@
 # Plant-Disease-Detector-Prototype
-
+![Plant_classifier](https://github.com/Jiang22s/Plant-Disease-Detector-Prototype/blob/main/Screen%20Shot%202023-09-26%20at%201.51.09%20AM.png)
 
 
 Plant diseases significantly impact global food security and the world's agricultural economy. Early detection and classification increase the chances of setting up effective control measures, which is why the search for automatic systems that allow this is of major interest to our society. 
