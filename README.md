@@ -8,8 +8,8 @@ The dataset we use is the [Plant Village Dataset](https://github.com/spMohanty/P
 We split the dataset into 80% training and 20% validation sets. The classifier reached 99.38% accuracy eventually. 
 
 
-This project has everything of application setup; you can even click the GUI to upload the leaves images while running the notebook. Due to the size limitation, the export model will be considered to be placed in another repository. Here, we can use Voila, widget, and Binder to create a mini-application(guidance in another respository), while the more sophisticated deployment with Paperspace is coming soon(in another depository).
+This project has everything of application setup; you can even click the GUI to upload the leaves images while running the notebook. Due to the size limitation, the export model will be considered to be placed in another repository. Here, we can use Voila, widget, and Binder to create a mini-application(guidance in another respository), while the more sophisticated deployment using Paperspace/container is coming soon (in another depository).
 
-- Choice of Application [Binder](https://mybinder.org/)
+- Choice of Application: [Binder](https://mybinder.org/)
 - Choice of GPU: Nvidia 8 core A6000 with 45 Gib RAM and 48 Gib GPU
   
